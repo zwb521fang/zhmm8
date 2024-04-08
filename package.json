@@ -1,5 +1,5 @@
 {
-  "name": "bblist9",
+  "name": "zhmm",
   "version": "1.0.0",
   "description": "common toolkit",
   "main": "index.js",
@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "name": "bblist9",
-    "url": "git+https://github.com/zwb521fang/bblist9.git"
+    "name": "zhmm",
+    "url": "git+https://github.com/zwb521fang/zhmm.git"
   },
   "keywords": [
     "[\"utils\"",
@@ -20,9 +20,9 @@
   "author": "zwb21fang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zwb521fang/bblist9/issues"
+    "url": "https://github.com/zwb521fang/zhmm/issues"
   },
-  "homepage": "https://github.com/zwb521fang/bblist9#readme",
+  "homepage": "https://github.com/zwb521fang/zhmm#readme",
   
   "dependencies": {
     "bblist8": "^1.0.0",
@@ -43,7 +43,6 @@
     "zhmm3": "^1.0.0",
     "zhmm2": "^1.0.0",
     "zhmm1": "^1.0.0",
-    "zhmm0": "^1.0.0",
     "zgylist9": "^1.0.0",
     "zgylist8": "^1.0.0",
     "zgylist7": "^1.0.0",
