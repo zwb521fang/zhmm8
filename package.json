@@ -1,5 +1,5 @@
 {
-  "name": "zhmm",
+  "name": "zhmm8",
   "version": "1.0.0",
   "description": "common toolkit",
   "main": "index.js",
@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "name": "zhmm",
-    "url": "git+https://github.com/zwb521fang/zhmm.git"
+    "name": "zhmm8",
+    "url": "git+https://github.com/zwb521fang/zhmm8.git"
   },
   "keywords": [
     "[\"utils\"",
@@ -20,9 +20,9 @@
   "author": "zwb21fang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zwb521fang/zhmm/issues"
+    "url": "https://github.com/zwb521fang/zhmm8/issues"
   },
-  "homepage": "https://github.com/zwb521fang/zhmm#readme",
+  "homepage": "https://github.com/zwb521fang/zhmm8#readme",
   
   "dependencies": {
     "bblist8": "^1.0.0",
@@ -35,7 +35,7 @@
     "bblist": "^1.0.0",
     "bblist1": "^1.0.0",
     "zhmm9": "^1.0.0",
-    "zhmm8": "^1.0.0",
+    "zhmm": "^1.0.0",
     "zhmm7": "^1.0.0",
     "zhmm6": "^1.0.0",
     "zhmm5": "^1.0.0",
